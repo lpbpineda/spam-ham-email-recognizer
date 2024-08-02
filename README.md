@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This program determines if a given email is a spam email or a ham email. The method used for spam filtering is Naïve Bayes Classifier with Laplace Smoothing and is trained using the texts available inside the `/datasets` folder.
+This program determines if a given email is a spam email or a ham email. The method used for spam filtering is Naïve Bayes Classifier with Laplace Smoothing, which is supervised learning, and is trained using the texts available inside the `/datasets` folder.
 
 ## How to run
 
